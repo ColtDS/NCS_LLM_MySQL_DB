@@ -7,11 +7,38 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 
 Their inventory, sales and discounts data is stored in a MySQL database
 We will build an LLM based question and answer system that will use following,
-Google Palm LLM
-Hugging face embeddings
-Streamlit for UI
-Langchain framework
-Chromadb as a vector store
-Few shot learning
-In the UI, store manager will ask questions in a natural language and it will produce the answers
 
+
+    Google Palm LLM
+    Hugging face embeddings
+    Streamlit for UI
+    Langchain framework
+    Chromadb as a vector store
+    Few shot learning
+    In the UI, store manager will ask questions in a natural language and it will produce the answers
+
+
+
+**Installation**
+
+Install the required dependencies using pip:
+
+pip install -r requirements.txt
+
+Acquire an api key through makersuite.google.com and put it in .env file
+
+GOOGLE_API_KEY="your_api_key_here"
+
+**Usage**
+
+Run the Streamlit app by executing:
+
+streamlit run main.py
+
+**Project Structure**
+
+main.py: The main Streamlit application script.
+langchain_helper.py: This has all the langchain code
+requirements.txt: A list of required Python packages for the project.
+few_shots.py: Contains few shot prompts
+.env: Configuration file for storing your Google API key.
