@@ -1,11 +1,6 @@
-langchain==0.0.284
-python-dotenv==1.0.0
-streamlit==1.22.0
-tiktoken==0.4.0
-faiss-cpu==1.7.4
-protobuf~=3.19.0
-langchain_experimental
-mysql-connector-python
+langchain==0.0.316
+openai==0.28.1
 pymysql
+langchain_experimental
 sentence-transformers
 chromadb
