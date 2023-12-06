@@ -1,5 +1,5 @@
 # NCS_LLM_MySQL_DB
-This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and then executing that query on MySQL database.
+This is an end to end LLM project based on OpenAI and Langchain. We are building a system that can talk to MySQL database. User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and then executing that query on MySQL database.
 
 **Project Highlights**
 
@@ -9,7 +9,7 @@ Their inventory, sales and discounts data is stored in a MySQL database
 We will build an LLM based question and answer system that will use following,
 
 
-    Google Palm LLM
+    OPEN AI LLM
     Hugging face embeddings
     Streamlit for UI
     Langchain framework
@@ -25,9 +25,9 @@ Install the required dependencies using pip:
 
 pip install -r requirements.txt
 
-Acquire an api key through makersuite.google.com and put it in .env file
+Acquire an api key through https://openai.com/ and put it in .env file
 
-GOOGLE_API_KEY="your_api_key_here"
+OPENAPI_KEY ="your_api_key_here"
 
 **Usage**
 
