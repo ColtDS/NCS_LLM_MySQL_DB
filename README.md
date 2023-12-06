@@ -9,13 +9,14 @@ Their inventory, sales and discounts data is stored in a MySQL database
 We will build an LLM based question and answer system that will use following,
 
 
-    OPEN AI LLM
-    Hugging face embeddings
-    Streamlit for UI
-    Langchain framework
-    Chromadb as a vector store
-    Few shot learning
-    In the UI, store manager will ask questions in a natural language and it will produce the answers
+Features
+    Natural Language Interface: Users can ask questions in natural language to retrieve data from the MySQL database.
+    Integration with OpenAI LLM: Utilizes OpenAI's language models for processing and understanding queries.
+    Hugging Face Embeddings: Leverages Hugging Face's powerful embeddings for language understanding.
+    Streamlit UI: Provides an easy-to-use web interface for interaction.
+    Langchain Framework: Utilizes the Langchain framework for efficient language model operations.
+    ChromaDB: Employs ChromaDB as a vector store for managing data.
+    Few-Shot Learning: Incorporates few-shot learning techniques for enhanced performance.
 
 
 
