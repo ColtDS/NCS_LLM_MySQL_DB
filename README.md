@@ -9,7 +9,7 @@ Their inventory, sales and discounts data is stored in a MySQL database
 We will build an LLM based question and answer system that will use following,
 
 
-Features
+
     Natural Language Interface: Users can ask questions in natural language to retrieve data from the MySQL database.
     Integration with OpenAI LLM: Utilizes OpenAI's language models for processing and understanding queries.
     Hugging Face Embeddings: Leverages Hugging Face's powerful embeddings for language understanding.
