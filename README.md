@@ -6,10 +6,10 @@ This project leverages OpenAI's LLM, Hugging Face embeddings, Streamlit, the Lan
 
 **Project Highlights**
 
- a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts
+* NCS t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts
 
-Their inventory, sales and discounts data is stored in a MySQL database
-We will build an LLM based question and answer system that will use following,
+* Their inventory, sales and discounts data is stored in a MySQL database
+  We will build an LLM based question and answer system that will use following,
 
 
 
