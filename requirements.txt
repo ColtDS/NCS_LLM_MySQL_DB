@@ -1,5 +1,6 @@
 langchain==0.0.316
 openai==0.28.1
+streamlit==1.22.0
 pymysql
 langchain_experimental
 sentence-transformers
