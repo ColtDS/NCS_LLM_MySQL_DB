@@ -3,6 +3,8 @@
 **Overview**
 
 This project leverages OpenAI's LLM, Hugging Face embeddings, Streamlit, the Langchain framework, ChromaDB, and few-shot learning to build a natural language processing system. This system is designed to interact with a MySQL database for a t-shirt store selling brands like Adidas, Nike, Van Heusen, and Levi's. It allows the store manager to query inventory, sales, and discounts data using natural language, which the system then translates into SQL queries to fetch the relevant information.
+![image](https://github.com/ColtDS/NCS_LLM_MySQL_DB/assets/143977206/ef067b73-71cc-4ffe-bc73-810837890b1b)
+
 
 **Project Highlights**
 
