@@ -25,7 +25,7 @@ We will build an LLM based question and answer system that will use following,
 
 **Installation**
 
-*Install the required dependencies using pip:
+* Install the required dependencies using pip:
 
 pip install -r requirements.txt
 
