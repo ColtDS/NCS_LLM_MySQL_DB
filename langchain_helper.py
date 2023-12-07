@@ -16,7 +16,7 @@ from Few_Shot_Learning import few_shots
 
 def get_few_shot_db_chain():
     db_user = "root"
-    db_password = "12121212"
+    db_password = "your password"
     db_host = "localhost"
     db_name = "ncs_tshirts"
 
