@@ -25,13 +25,13 @@ We will build an LLM based question and answer system that will use following,
 
 **Installation**
 
-Markup : * Install the required dependencies using pip:
+Install the required dependencies using pip:
 
-*pip install -r requirements.txt
+pip install -r requirements.txt
 
-*Acquire an api key through https://openai.com/ and put it in .env file
+Acquire an api key through https://openai.com/ and put it in .env file
 
-*OPENAPI_KEY ="your_api_key_here"
+OPENAPI_KEY ="your_api_key_here"
 
 **Usage**
 
