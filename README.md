@@ -27,27 +27,27 @@ We will build an LLM based question and answer system that will use following,
 
 * Install the required dependencies using pip:
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
-Acquire an api key through https://openai.com/ and put it in .env file
+* Acquire an api key through https://openai.com/ and put it in .env file
 
-OPENAPI_KEY ="your_api_key_here"
+* OPENAPI_KEY ="your_api_key_here"
 
 **Usage**
 
-Run the Streamlit app by executing:
+* Run the Streamlit app by executing:
 
-streamlit run main.py
+* streamlit run main.py
 
 **Project Structure**
 
 
-main.py: The main Streamlit application script.
+* main.py: The main Streamlit application script.
 
-langchain_helper.py: This has all the langchain code
+* langchain_helper.py: This has all the langchain code
 
-requirements.txt: A list of required Python packages for the project.
+* requirements.txt: A list of required Python packages for the project.
 
-few_shots.py: Contains few shot prompts
+* few_shots.py: Contains few shot prompts
 
-secreat_key: Configuration file for storing your OPENAI API key.
+* secreat_key: Configuration file for storing your OPENAI API key.
