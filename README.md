@@ -13,13 +13,13 @@ This project leverages OpenAI's LLM, Hugging Face embeddings, Streamlit, the Lan
 
 
 
-    Natural Language Interface: Users can ask questions in natural language to retrieve data from the MySQL database.
-    Integration with OpenAI LLM: Utilizes OpenAI's language models for processing and understanding queries.
-    Hugging Face Embeddings: Leverages Hugging Face's powerful embeddings for language understanding.
-    Streamlit UI: Provides an easy-to-use web interface for interaction.
-    Langchain Framework: Utilizes the Langchain framework for efficient language model operations.
-    ChromaDB: Employs ChromaDB as a vector store for managing data.
-    Few-Shot Learning: Incorporates few-shot learning techniques for enhanced performance.
+* Natural Language Interface: Users can ask questions in natural language to retrieve data from the MySQL database.
+  Integration with OpenAI LLM: Utilizes OpenAI's language models for processing and understanding queries.
+  Hugging Face Embeddings: Leverages Hugging Face's powerful embeddings for language understanding.
+  Streamlit UI: Provides an easy-to-use web interface for interaction.
+  Langchain Framework: Utilizes the Langchain framework for efficient language model operations.
+  ChromaDB: Employs ChromaDB as a vector store for managing data.
+  Few-Shot Learning: Incorporates few-shot learning techniques for enhanced performance.
 
 
 
